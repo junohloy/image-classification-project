@@ -58,4 +58,4 @@ Predicted class: Horse (Class 7)
 - **Dataset**: The app uses the CIFAR-10 dataset, which contains 60,000 32x32 color images in 10 classes
 - **Model**: The model is a Convolutional Neural Network (CNN) trained on CIFAR-10
 - **Classes**:
--- Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship, Truck.
+- - Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship, Truck.
